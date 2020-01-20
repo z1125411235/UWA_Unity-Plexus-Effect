@@ -1,0 +1,8 @@
+版本:Unity 2018.4.14f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b5ccf7cd7f10a201fe96079?fbclid=IwAR0u6RhFyqSVi82Bqpi4AY0KcAyQbJBpAYbjPDvJobzPt6y0qJqFsscfGVs
+
+官方Github網址__https://github.com/Caedo/UnityPlexusEffect
+
+本人Github網址__https://github.com/z1125411235/Unity-Plexus-Effect
+
